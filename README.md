@@ -1,6 +1,6 @@
 # Cryptocurrencies
 ## Project Overview
-Our assignment is to use unsupervised learning to create an analysis for our clients who are preparing to get into the cryptocurrency market. We create a report that includes what cryptocurrencies are on the trading market and use clustering algorithm to find out how they could be grouped to create a classification system for this new investment. We then use data visualizations to share our findings with the board.
+In this project, I used unsupervised learning to create an analysis for the clients who were preparing to get into the cryptocurrency market. I created a report that included what cryptocurrencies were on the trading market and used clustering algorithm to find out how they could be grouped to create a classification system for this new investment. I then used Pandas and Plotly to visualize my findings with the board.
 
 ## Resources
 Data Source: crypto_data.csv
